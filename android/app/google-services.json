@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592236498606",
+    "project_id": "flowop-138b2",
+    "storage_bucket": "flowop-138b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592236498606:android:3b4d4df07d6cfa4d3da73f",
+        "android_client_info": {
+          "package_name": "com.lilpunk.flowop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592236498606-163cbmr6rre7kjv55h564k3q5g153cpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0U95-3HRNMGqECnzlPssZUqNa7QVHzWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592236498606-163cbmr6rre7kjv55h564k3q5g153cpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

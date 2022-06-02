@@ -1,0 +1,45 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color primary = Color(0xFF3D5A80);
+  static const Color secondary = Color(0xFF98C1d9);
+  static const Color liteGrey = Color(0xFFC9C9C9);
+  static const Color grey75 = Color(0xFFBFBFBF);
+  static const Color styleTag = Color(0xFF4473C4);
+  static const Color redLike = Color.fromRGBO(255, 93, 93, 1.0);
+  static const Color grayText = Color(0xFF8D8D8D);
+  static const Color secondaryBase = Color(0xFF55759E);
+  static const Color grayDisable = Color(0xFFD1D1D1);
+  static const Color orangeFill = Color(0xFFD38606);
+  static const Color redError = Color(0xFFA3362F);
+  static const Color redErrorBase = Color(0xFFCC433B);
+  static const Color greySuccess = Color(0xFF346F5F);
+  static const Color successBaseReply = Color(0xFF4A9E87);
+  static const Color darkGrey = Color(0xFF363636);
+  static const Color warning = Color(0xFFF1CF99);
+  static const Color textSecondary = Color(0xff3B526F);
+  static const Color secondaryDisable = Color(0xFFAABACF);
+  static const Color greyWarning = Color(0xFF666666);
+  static const Color primaryButton = Color(0xff444444);
+  static const Color textNeutral = Color(0xff1B1B1B);
+  static const Color border = Color(0xFFECECEC);
+  static const Color neutralGray = Color(0xFF494949);
+  static const Color greyTextButton = Color(0xFFC7C7C7);
+  static const Color neutralBG = Color(0xFFF4F4F4);
+  static const Color innerBorder = Color(0xFFECECEC);
+  static const Color innerColor = Color(0xFFECECEC);
+  static const Color primaryBase = Color(0xFF444444);
+  static const Color grayButton = Color(0xFF494949);
+  static const Color backgroundError = Color(0xFFFFEFEE);
+  static const Color systemError = Color(0xFFCC433B);
+  static const Color black16 = Color.fromRGBO(102, 102, 102, 0.16);
+  static const Color borderColor = Color(0xFFDDE3EC);
+  static const Color subButtonBg = Color(0xFFDDE3EC);
+  static const Color divider = Color.fromRGBO(102, 102, 102, 0.08);
+  static const Color primaryMain = Color(0xFF363636);
+  static const Color success = Color(0xFF4A9E87);
+  static const Color trans24 = Color.fromRGBO(102, 102, 102, 0.24);
+  static const Color white = Color(0xFFFFFFFF);
+  static const Color errorBG = Color(0xFFFFEFEE);
+  static const tfLightNotError = Color(0xFFE6EBF1);
+}

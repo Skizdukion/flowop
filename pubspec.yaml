@@ -1,0 +1,53 @@
+name: flowop
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.0.2
+  firebase_core: ^1.5.0
+  cloud_firestore: ^2.5.0
+  get:
+  flutter_bloc: ^7.0.1
+  equatable:
+  flutter_svg: ^0.23.0+1
+  riverpod: ^0.14.0+3
+  flutter_riverpod: ^0.14.0+3
+  rxdart:
+  shimmer: ^2.0.0
+  intl: ^0.17.0
+  fluttertoast: ^8.0.8
+  cached_network_image:
+  flutter_smart_dialog: ^3.0.1
+  flutter_spinkit: ^5.1.0
+  uuid: ^3.0.5
+  flutter_datetime_picker: ^1.5.1
+  path_provider: ^2.0.8
+  flutter_slidable: ^0.6.0
+  adaptive_dialog: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+dependency_overrides:
+  firebase_auth_platform_interface: 6.1.11
+  cloud_firestore_platform_interface: 5.4.13
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/icons/tabs/
+    - assets/anim/
